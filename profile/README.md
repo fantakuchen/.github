@@ -30,7 +30,3 @@ WHO FANTACAKE?? An open source collective of people (well, me anyway) with far t
 WHAT FANTACAKE?? Open Organisation for indie game development (Phaser, Three, Unreal.js) with no "suprise mechanics" or "buy this box" to win mechanics.
 
 WANT FANTACAKE?? If you are interested in making multiplayer arcade games, get in touch!
-
-[fantakuchen slack: ](https://fantakuchen.slack.com)
-
-[excaliburjs: ](https://excaliburjs.com/docs/actors)
