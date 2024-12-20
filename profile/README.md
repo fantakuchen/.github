@@ -23,7 +23,7 @@
 
 # Willkommen zu Fantakuchen!
 
-WHY FANTACAKE?? Because, I watched This [This Video](https://www.youtube.com/watch?v=JheGL6uSF-4) at an ungodly hour of the morning, and felt clever using FantaKuchen...
+WHY FANTACAKE?? Because, I watched This [This Video](https://youtu.be/JheGL6uSF-4?si=De3moL5wRqcXnKBF&t=1026) at an ungodly hour of the morning, and felt clever using FantaKuchen...
 
 WHO FANTACAKE?? An open source collective of people (well, me anyway) with far too much free time (me again...) and share an enjoyment of cake.
 
